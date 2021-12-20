@@ -84,21 +84,18 @@
 		<td >
 			<img src="/.github/icons/mongodb.svg" width="60"/>
 		</td>
-		<td>
-			<img src="/.github/icons/solidity.svg" width="60"/>
+		
+		<td >
+			<img src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg" width="60"/>
 		</td>
 		<td >
-			<img src="/.github/icons/react.svg" width="60"/>
-		</td>
-		<td >
-			<img src="/.github/icons/aws.svg" width="60"/>
+			<img src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/aws-logo-blog-header.png?itok=t4o3meiH" width="60"/>
 		</td>
 	</tr>
 	<tr align="center">
 		<td>Nest.js</td>
 		<td>postgreSQL</td>
 		<td>MongoDB</td>
-		<td>Solidity</td>
 		<td>React Native</td>
 		<td>AWS</td>
 	</tr>

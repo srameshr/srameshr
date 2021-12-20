@@ -32,7 +32,7 @@
 			<img src="/.github/icons/algorand.svg" width="60"/>
 		</td>
     <td >
-			<img src="/.github/icons/hedera.svg" width="60"/>
+			<img src="https://assets.coingecko.com/coins/images/3688/large/hbar.png?1637045634" width="60"/>
 		</td>
 	</tr>
 	<tr align="center">

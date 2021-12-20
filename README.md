@@ -23,13 +23,13 @@
 <table >
 	<tr align="center">
 		<td >
-			<img src="/.github/icons/ethereum.svg" width="60"/>
+			<img src="https://s2.coinmarketcap.com/static/img/coins/200x200/1027.png" width="60"/>
 		</td>
 		<td >
-			<img src="/.github/icons/solana.svg" width="60"/>
+			<img src="https://s2.coinmarketcap.com/static/img/coins/200x200/5426.png" width="60"/>
 		</td>
 		<td >
-			<img src="/.github/icons/algorand.svg" width="60"/>
+			<img src="https://s2.coinmarketcap.com/static/img/coins/200x200/4030.png" width="60"/>
 		</td>
     <td >
 			<img src="https://assets.coingecko.com/coins/images/3688/large/hbar.png?1637045634" width="60"/>
